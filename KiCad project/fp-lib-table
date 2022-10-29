@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "mega2560pro")(type "KiCad")(uri "mega2560pro.pretty")(options "")(descr ""))
+)
